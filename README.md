@@ -1,6 +1,6 @@
 # Simple-API-test using Swagger Petstore
 
-# Maven Dependencies required for the tests.
+Maven Dependencies required for the tests.
 
         <dependency>
             <groupId>io.rest-assured</groupId>
